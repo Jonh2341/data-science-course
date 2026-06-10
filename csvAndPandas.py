@@ -6,7 +6,7 @@ from datetime import datetime
 url = "https://lichess.org/api/tournament"
 response = requests.get(url)
 data = response.json()
-tournament_count = 0
+# tournament_count = 0
 
 with open('tournaments.csv', 'w', newline='', encoding="utf-8") as file:
     writer = csv.writer(file)
