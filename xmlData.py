@@ -32,7 +32,7 @@ data_xml = []
 # append data from gotten root to the list
 for item in getRoot.findall("tournament"):
     data_xml.append({
-        "id": item.find("id").text,
+        "id": "https://lichess.org/tournament/" + item.find("id").text,
         "fullName": item.find("fullName").text,
         "nbPlayers": int(item.find("nbPlayers").text)
     })

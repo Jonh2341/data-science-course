@@ -9,8 +9,8 @@ data = response.json()
 # tournament_count = 0
 
 with open('tournaments.csv', 'w', newline='', encoding="utf-8") as file:
-    writer = csv.writer(file)
-    writer.writerow(['Number', 'ID', 'Name', 'StartsAt'])
+    # writer = csv.writer(file)
+    # writer.writerow(['Number', 'ID', 'Name', 'StartsAt'])
     data_list = []
 
     for i, t in enumerate(data['created'][:10], start=1):
