@@ -2,6 +2,7 @@ import requests
 import json
 import pandas as pd
 from datetime import datetime
+from bs4 import BeautifulSoup
 
 # requests
 url = "https://lichess.org/api/tournament"
@@ -65,7 +66,7 @@ def find_Specific_Tournament_By_Id(df, tournament_id):
 if user_prompt3 == 'yes':
     user_prompt4 = input('Enter the id of the tournament below (for instance: 4TObh84E): ')
     result = find_Specific_Tournament_By_Id(df, user_prompt4)
-
+    
     if result:
         print(f'Name: {result['name']}')
         print(f'Players: {result['players']}')
