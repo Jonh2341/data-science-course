@@ -1,0 +1,102 @@
+{
+    "page": 1,
+    "players": [
+        {
+            "name": "Rus_73",
+            "rank": 1,
+            "rating": 1924,
+            "score": 32,
+            "sheet": {
+                "scores": "444444422",
+                "fire": true
+            }
+        },
+        {
+            "name": "Sabali_Sabali",
+            "rank": 2,
+            "rating": 2007,
+            "score": 26,
+            "sheet": {
+                "scores": "5532005330",
+                "fire": true
+            }
+        },
+        {
+            "name": "NotGuilty777",
+            "rank": 3,
+            "rating": 1671,
+            "score": 21,
+            "sheet": {
+                "scores": "4444230",
+                "fire": true
+            }
+        },
+        {
+            "name": "axylon",
+            "rank": 4,
+            "rating": 1858,
+            "score": 21,
+            "sheet": {
+                "scores": "0555330"
+            }
+        },
+        {
+            "name": "Eruizu",
+            "rank": 5,
+            "rating": 1916,
+            "score": 20,
+            "sheet": {
+                "scores": "0444422"
+            }
+        },
+        {
+            "name": "Gamal789",
+            "rank": 6,
+            "rating": 1921,
+            "score": 20,
+            "sheet": {
+                "scores": "422044220",
+                "fire": true
+            }
+        },
+        {
+            "name": "viktor_67",
+            "rank": 7,
+            "rating": 1887,
+            "score": 18,
+            "sheet": {
+                "scores": "22044330",
+                "fire": true
+            }
+        },
+        {
+            "name": "serg-sah",
+            "rank": 8,
+            "rating": 2103,
+            "score": 17,
+            "sheet": {
+                "scores": "220044230",
+                "fire": true
+            }
+        },
+        {
+            "name": "znaceur",
+            "rank": 9,
+            "rating": 1959,
+            "score": 17,
+            "sheet": {
+                "scores": "5330213",
+                "fire": true
+            }
+        },
+        {
+            "name": "borfed",
+            "rank": 10,
+            "rating": 1938,
+            "score": 17,
+            "sheet": {
+                "scores": "0044522"
+            }
+        }
+    ]
+}
