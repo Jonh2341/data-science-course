@@ -1,0 +1,146 @@
+{
+    "id": "santhoshayyappan",
+    "username": "SanthoshAyyappan",
+    "perfs": {
+        "ultraBullet": {
+            "games": 4465,
+            "rating": 2259,
+            "rd": 45,
+            "prog": -2
+        },
+        "bullet": {
+            "games": 1436,
+            "rating": 2761,
+            "rd": 45,
+            "prog": -40
+        },
+        "blitz": {
+            "games": 3595,
+            "rating": 2472,
+            "rd": 45,
+            "prog": 27
+        },
+        "rapid": {
+            "games": 2360,
+            "rating": 2329,
+            "rd": 45,
+            "prog": -30
+        },
+        "classical": {
+            "games": 550,
+            "rating": 2389,
+            "rd": 56,
+            "prog": 23
+        },
+        "correspondence": {
+            "games": 250,
+            "rating": 1566,
+            "rd": 235,
+            "prog": 222,
+            "prov": true
+        },
+        "chess960": {
+            "games": 33,
+            "rating": 2111,
+            "rd": 106,
+            "prog": 1
+        },
+        "kingOfTheHill": {
+            "games": 50,
+            "rating": 1992,
+            "rd": 139,
+            "prog": -73,
+            "prov": true
+        },
+        "threeCheck": {
+            "games": 33,
+            "rating": 2097,
+            "rd": 146,
+            "prog": 82,
+            "prov": true
+        },
+        "antichess": {
+            "games": 74,
+            "rating": 1704,
+            "rd": 136,
+            "prog": 2,
+            "prov": true
+        },
+        "atomic": {
+            "games": 87,
+            "rating": 1392,
+            "rd": 126,
+            "prog": 43,
+            "prov": true
+        },
+        "horde": {
+            "games": 6,
+            "rating": 1823,
+            "rd": 217,
+            "prog": 0,
+            "prov": true
+        },
+        "racingKings": {
+            "games": 10,
+            "rating": 1709,
+            "rd": 208,
+            "prog": 0,
+            "prov": true
+        },
+        "crazyhouse": {
+            "games": 26,
+            "rating": 1943,
+            "rd": 155,
+            "prog": 39,
+            "prov": true
+        },
+        "puzzle": {
+            "games": 16495,
+            "rating": 2592,
+            "rd": 64,
+            "prog": 0
+        },
+        "storm": {
+            "runs": 27,
+            "score": 61
+        },
+        "racer": {
+            "runs": 146,
+            "score": 113
+        },
+        "streak": {
+            "runs": 16,
+            "score": 73
+        }
+    },
+    "title": "NM",
+    "flair": "people.ninja",
+    "createdAt": 1592673663004,
+    "profile": {
+        "flag": "US",
+        "location": "New Jersey",
+        "bio": "☺Hi! 67!☺\r\nPlease join my team: \r\n🥷 https://lichess.org/team/the-checkmating-ninjas 🥷\r\nThank you!\r\nhttps://i.imgur.com/CqDvf9i.jpg\r\n“The best way to improve in chess is to lock in.” - Quote by me\r\nBest wins:\r\nUltrabullet - nihalsarin2004\r\nBullet - junglebook1\r\nBlitz - Lintchevski_Daniil\r\nRapid - MrKooshaJ\r\nClassical - Gen_1",
+        "realName": "Santhosh Ayyappan",
+        "fideRating": 2028,
+        "uscfRating": 2256,
+        "links": "https://lichess.org/@/SanthoshAyyappan\r\nratings.uschess.org/player/16959235\r\nratings.fide.com/profile/30979870"
+    },
+    "seenAt": 1782744989804,
+    "playTime": {
+        "total": 3900363,
+        "tv": 221206
+    },
+    "url": "https://lichess.org/@/SanthoshAyyappan",
+    "playing": "https://lichess.org/SN0KEJSA/black",
+    "count": {
+        "all": 13185,
+        "rated": 12986,
+        "draw": 769,
+        "loss": 4376,
+        "win": 8040,
+        "bookmark": 2,
+        "playing": 1,
+        "import": 5,
+        "me": 0
+    }
+}

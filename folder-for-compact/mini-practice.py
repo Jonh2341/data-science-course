@@ -18,4 +18,4 @@ def get_tournament_rating(url):
     for p in standing_players['players']:
         print(f'player: {p['name']} \n rank: {p['rank']} \n rating: {p['rating']} \n score: {p['score']}')
 
-get_tournament_rating('https://lichess.org/api/tournament/3Qij8lxK')
+get_tournament_rating('https://lichess.org/api/tournament/4qaG8GDL')

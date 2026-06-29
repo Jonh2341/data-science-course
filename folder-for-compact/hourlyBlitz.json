@@ -1,0 +1,100 @@
+{
+    "page": 1,
+    "players": [
+        {
+            "name": "chessprinces1234",
+            "rank": 1,
+            "rating": 1314,
+            "score": 18,
+            "sheet": {
+                "scores": "4221212022",
+                "fire": true
+            }
+        },
+        {
+            "name": "Coo6ff9e1",
+            "rank": 2,
+            "rating": 1213,
+            "score": 17,
+            "sheet": {
+                "scores": "442210022",
+                "fire": true
+            }
+        },
+        {
+            "name": "AinaKoera",
+            "rank": 3,
+            "rating": 1257,
+            "score": 14,
+            "sheet": {
+                "scores": "0204422"
+            }
+        },
+        {
+            "name": "Whis-Beerus",
+            "rank": 4,
+            "rating": 1317,
+            "score": 12,
+            "sheet": {
+                "scores": "4422",
+                "fire": true
+            }
+        },
+        {
+            "name": "juukoharuna",
+            "rank": 5,
+            "rating": 1186,
+            "score": 12,
+            "sheet": {
+                "scores": "44220",
+                "fire": true
+            }
+        },
+        {
+            "name": "nisargvgandhi",
+            "rank": 6,
+            "rating": 1179,
+            "score": 12,
+            "sheet": {
+                "scores": "202422"
+            }
+        },
+        {
+            "name": "JamilaBhatia300",
+            "rank": 7,
+            "rating": 1241,
+            "score": 12,
+            "sheet": {
+                "scores": "0020024220"
+            }
+        },
+        {
+            "name": "Gera59",
+            "rank": 8,
+            "rating": 1147,
+            "score": 11,
+            "sheet": {
+                "scores": "422120",
+                "fire": true
+            }
+        },
+        {
+            "name": "Luisale2022",
+            "rank": 9,
+            "rating": 1015,
+            "score": 11,
+            "sheet": {
+                "scores": "204221"
+            }
+        },
+        {
+            "name": "Tumo_Rakeiti",
+            "rank": 10,
+            "rating": 1294,
+            "score": 10,
+            "sheet": {
+                "scores": "020422"
+            }
+        }
+    ]
+}
